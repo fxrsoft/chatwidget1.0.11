@@ -305,7 +305,7 @@ chatbot.style.position = 'fixed';
 if (config.position.includes('top')) {
   chatbotToggler.style.top = '0';
   chatbot.style.right = '10px';
-  chatbot.style.top = '510px';
+  chatbot.style.top = '10px';
 } else {
   chatbotToggler.style.bottom = '0';
   chatbot.style.bottom = '10px';
@@ -317,8 +317,8 @@ if (config.position.includes('left')) {
   chatbot.style.bottom = '10px';
 } else {
   chatbotToggler.style.right = '0';
-  chatbot.style.right = '10px';
-   chatbot.style.bottom = '10px';
+  chatbot.style.right = '20px';
+   chatbot.style.bottom = '20px';
 }
   }
   // Initialize the chatbot widget with config options
