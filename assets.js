@@ -18,8 +18,8 @@ body {
   //bottom: 80px;
   //right: 50px;
   border: none;
-  height: 50px;
-  width: 50px;
+  height: 70px;
+  width: 70px;
   display: flex;
   cursor: pointer;
   align-items: center;
@@ -55,7 +55,7 @@ body.show-chatbot .chatbot-toggler span:last-child {
   position: fixed;
   //right: 35px;
   // left: 35px;
-  bottom: 90px;
+  bottom: 100px;
   width: 370px;
   background: #fff;
   border-radius: 15px;
