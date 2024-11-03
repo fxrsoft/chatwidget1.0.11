@@ -304,21 +304,21 @@ chatbot.style.position = 'fixed';
 
 if (config.position.includes('top')) {
   chatbotToggler.style.top = '0';
-  chatbot.style.right = '5px';
-  chatbot.style.top = '5px';
+  chatbot.style.right = '10px';
+  chatbot.style.top = '510px';
 } else {
   chatbotToggler.style.bottom = '0';
-  chatbot.style.bottom = '5px';
+  chatbot.style.bottom = '10px';
 }
 
 if (config.position.includes('left')) {
   chatbotToggler.style.left = '0';
-  chatbot.style.left = '5px';
-  chatbot.style.bottom = '5px';
+  chatbot.style.left = '10px';
+  chatbot.style.bottom = '10px';
 } else {
   chatbotToggler.style.right = '0';
-  chatbot.style.right = '5px';
-   chatbot.style.bottom = '5px';
+  chatbot.style.right = '10px';
+   chatbot.style.bottom = '10px';
 }
   }
   // Initialize the chatbot widget with config options
