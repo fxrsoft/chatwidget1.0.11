@@ -15,8 +15,8 @@ body {
 }
 .chatbot-toggler {
   outline: none;
-  bottom: 30px;
-  right: 35px;
+  bottom: 50px;
+  right: 50px;
   border: none;
   height: 50px;
   width: 50px;
